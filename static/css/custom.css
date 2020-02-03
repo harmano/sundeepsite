@@ -56,7 +56,11 @@ footer {
   padding-bottom: 0px;
   margin-bottom: 0px;
 }
-
+.icon-services-small{
+  width:120px;
+  height:auto;
+  margin-top:10%;
+}
 /*... Viewport ...*/
 
     /*... Small devices (landscape phones, 576px and up)...*/
@@ -85,6 +89,18 @@ footer {
 
     .widht-font{
       font-weight: 300;
+    }
+    .icon-services-small{
+      width:80px;
+      height:auto;
+      margin-top:10%;
+    }
+
+    .sf-icon-services-small{
+      width:200px;
+      height:auto;
+      margin-top:%;
+      margin-bottom:5%
     }
 }
 
