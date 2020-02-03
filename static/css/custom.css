@@ -82,6 +82,10 @@ footer {
     height: 80px;
     width: 80px;
     }
+
+    .widht-font{
+      font-weight: 300;
+    }
 }
 
 @media (min-width: 576px) {
